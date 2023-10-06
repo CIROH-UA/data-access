@@ -30,7 +30,7 @@ Before running the code, make sure you have the following prerequisites installe
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/data_access_example.git
+git clone https://github.com/CIROH-UA/data_access_example.git
 
 
 2. Navigate to the repository folder:
