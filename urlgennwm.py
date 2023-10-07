@@ -475,6 +475,7 @@ def generate_urls(start_date,end_date, fcst_cycle, lead_time, varinput, geoinput
         end_date,
         fcst_cycle,
         urlbaseinput,
+        lead_time,
     )
     if os.path.exists("filenamelist.txt"):
         os.remove("filenamelist.txt")   
